@@ -1,0 +1,173 @@
+Oct 26 16:10:34 10.71.57.0 u43351997-dave Connection from 10.71.57.0 port 16198 on 82.165.81.78 port 22
+Oct 26 16:10:34 10.71.57.0 u43351997-dave Accepted password for u43351997-dave from 10.71.57.0 port 16198 ssh2
+Oct 26 16:10:35 10.71.57.0 u43351997-dave Starting session: subsystem 'sftp' for u43351997-dave from 10.71.57.0 port 16198 id 0
+Oct 26 16:10:36 10.71.57.0 u43351997-dave session opened for local user u43351997-dave from [10.71.57.0]
+Oct 26 16:11:10 10.71.57.0 u43351997-dave Connection from 10.71.57.0 port 64086 on 82.165.81.78 port 22
+Oct 26 16:11:10 10.71.57.0 u43351997-dave Accepted password for u43351997-dave from 10.71.57.0 port 64086 ssh2
+Oct 26 16:11:10 10.71.57.0 u43351997-dave Connection from 10.71.57.0 port 64084 on 82.165.81.78 port 22
+Oct 26 16:11:10 10.71.57.0 u43351997-dave Accepted password for u43351997-dave from 10.71.57.0 port 64084 ssh2
+Oct 26 16:11:10 10.71.57.0 u43351997-dave Starting session: subsystem 'sftp' for u43351997-dave from 10.71.57.0 port 64084 id 0
+Oct 26 16:11:10 10.71.57.0 u43351997-dave session opened for local user u43351997-dave from [10.71.57.0]
+Oct 26 16:11:10 10.71.57.0 u43351997-dave Starting session: subsystem 'sftp' for u43351997-dave from 10.71.57.0 port 64086 id 0
+Oct 26 16:11:10 10.71.57.0 u43351997-dave session opened for local user u43351997-dave from [10.71.57.0]
+Oct 26 16:11:10 10.71.57.0 u43351997-dave open "/pcmagic.png" flags READ mode 0666
+Oct 26 16:11:10 10.71.57.0 u43351997-dave open "/index.html" flags READ mode 0666
+Oct 26 16:11:11 10.71.57.0 u43351997-dave close "/index.html" bytes read 15469 written 0
+Oct 26 16:11:11 10.71.57.0 u43351997-dave [10.71.57.0|get|1|15469|0|0|0|2f696e6465782e68746d6c|]
+Oct 26 16:11:11 10.71.57.0 u43351997-dave open "/css/style.css" flags READ mode 0666
+Oct 26 16:11:11 10.71.57.0 u43351997-dave close "/css/style.css" bytes read 10865 written 0
+Oct 26 16:11:11 10.71.57.0 u43351997-dave [10.71.57.0|get|0|10865|0|0|0|2f6373732f7374796c652e637373|]
+Oct 26 16:11:11 10.71.57.0 u43351997-dave open "/css/font-awesome.min.css" flags READ mode 0666
+Oct 26 16:11:11 10.71.57.0 u43351997-dave close "/pcmagic.png" bytes read 1909369 written 0
+Oct 26 16:11:11 10.71.57.0 u43351997-dave [10.71.57.0|get|1|1909369|0|0|0|2f70636d616769632e706e67|]
+Oct 26 16:11:11 10.71.57.0 u43351997-dave close "/css/font-awesome.min.css" bytes read 23742 written 0
+Oct 26 16:11:11 10.71.57.0 u43351997-dave [10.71.57.0|get|0|23742|0|0|0|2f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Oct 26 16:11:11 10.71.57.0 u43351997-dave open "/css/animate.min.css" flags READ mode 0666
+Oct 26 16:11:12 10.71.57.0 u43351997-dave open "/css/bootstrap.min.css" flags READ mode 0666
+Oct 26 16:11:12 10.71.57.0 u43351997-dave close "/css/animate.min.css" bytes read 46587 written 0
+Oct 26 16:11:12 10.71.57.0 u43351997-dave [10.71.57.0|get|1|46587|0|0|0|2f6373732f616e696d6174652e6d696e2e637373|]
+Oct 26 16:11:12 10.71.57.0 u43351997-dave close "/css/bootstrap.min.css" bytes read 117154 written 0
+Oct 26 16:11:12 10.71.57.0 u43351997-dave [10.71.57.0|get|0|117154|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Oct 26 16:11:12 10.71.57.0 u43351997-dave open "/fonts/fontawesome-webfont.woff2" flags READ mode 0666
+Oct 26 16:11:12 10.71.57.0 u43351997-dave open "/fonts/fontawesome-webfont.woff" flags READ mode 0666
+Oct 26 16:11:12 10.71.57.0 u43351997-dave close "/fonts/fontawesome-webfont.woff2" bytes read 56780 written 0
+Oct 26 16:11:12 10.71.57.0 u43351997-dave [10.71.57.0|get|0|56780|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f666632|]
+Oct 26 16:11:12 10.71.57.0 u43351997-dave close "/fonts/fontawesome-webfont.woff" bytes read 71508 written 0
+Oct 26 16:11:12 10.71.57.0 u43351997-dave [10.71.57.0|get|0|71508|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Oct 26 16:11:12 10.71.57.0 u43351997-dave open "/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+Oct 26 16:11:12 10.71.57.0 u43351997-dave sent status No such file
+Oct 26 16:11:12 10.71.57.0 u43351997-dave open "/fonts/fontawesome-webfont.svg" flags READ mode 0666
+Oct 26 16:11:12 10.71.57.0 u43351997-dave close "/fonts/fontawesome-webfont.ttf" bytes read 122092 written 0
+Oct 26 16:11:12 10.71.57.0 u43351997-dave [10.71.57.0|get|0|122092|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+Oct 26 16:11:12 10.71.57.0 u43351997-dave close "/fonts/fontawesome-webfont.svg" bytes read 313962 written 0
+Oct 26 16:11:12 10.71.57.0 u43351997-dave [10.71.57.0|get|0|313962|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+Oct 26 16:11:12 10.71.57.0 u43351997-dave open "/fonts/fontawesome-webfont.eot" flags READ mode 0666
+Oct 26 16:11:12 10.71.57.0 u43351997-dave open "/fonts/FontAwesome.otf" flags READ mode 0666
+Oct 26 16:11:12 10.71.57.0 u43351997-dave close "/fonts/fontawesome-webfont.eot" bytes read 60767 written 0
+Oct 26 16:11:12 10.71.57.0 u43351997-dave [10.71.57.0|get|0|60767|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Oct 26 16:11:13 10.71.57.0 u43351997-dave close "/fonts/FontAwesome.otf" bytes read 93888 written 0
+Oct 26 16:11:13 10.71.57.0 u43351997-dave [10.71.57.0|get|1|93888|0|0|0|2f666f6e74732f466f6e74417765736f6d652e6f7466|]
+Oct 26 16:11:13 10.71.57.0 u43351997-dave open "/images/yrfc u13.jpg" flags READ mode 0666
+Oct 26 16:11:13 10.71.57.0 u43351997-dave open "/images/slider-bg4.png" flags READ mode 0666
+Oct 26 16:11:13 10.71.57.0 u43351997-dave close "/images/yrfc u13.jpg" bytes read 237778 written 0
+Oct 26 16:11:13 10.71.57.0 u43351997-dave [10.71.57.0|get|0|237778|0|0|0|2f696d616765732f79726663207531332e6a7067|]
+Oct 26 16:11:13 10.71.57.0 u43351997-dave open "/images/slider-bg4.jpg" flags READ mode 0666
+Oct 26 16:11:13 10.71.57.0 u43351997-dave close "/images/slider-bg4.png" bytes read 481658 written 0
+Oct 26 16:11:13 10.71.57.0 u43351997-dave [10.71.57.0|get|0|481658|0|0|0|2f696d616765732f736c696465722d6267342e706e67|]
+Oct 26 16:11:13 10.71.57.0 u43351997-dave close "/images/slider-bg4.jpg" bytes read 23211 written 0
+Oct 26 16:11:13 10.71.57.0 u43351997-dave [10.71.57.0|get|0|23211|0|0|0|2f696d616765732f736c696465722d6267342e6a7067|]
+Oct 26 16:11:13 10.71.57.0 u43351997-dave open "/images/slider-bg3.png" flags READ mode 0666
+Oct 26 16:11:13 10.71.57.0 u43351997-dave open "/images/slider-bg2.png" flags READ mode 0666
+Oct 26 16:11:14 10.71.57.0 u43351997-dave close "/images/slider-bg3.png" bytes read 1166193 written 0
+Oct 26 16:11:14 10.71.57.0 u43351997-dave [10.71.57.0|get|1|1166193|0|0|0|2f696d616765732f736c696465722d6267332e706e67|]
+Oct 26 16:11:14 10.71.57.0 u43351997-dave close "/images/slider-bg2.png" bytes read 1289641 written 0
+Oct 26 16:11:14 10.71.57.0 u43351997-dave [10.71.57.0|get|1|1289641|0|0|0|2f696d616765732f736c696465722d6267322e706e67|]
+Oct 26 16:11:14 10.71.57.0 u43351997-dave open "/images/slider-bg2.jpg" flags READ mode 0666
+Oct 26 16:11:14 10.71.57.0 u43351997-dave open "/images/slider-bg1.png" flags READ mode 0666
+Oct 26 16:11:14 10.71.57.0 u43351997-dave close "/images/slider-bg2.jpg" bytes read 44468 written 0
+Oct 26 16:11:14 10.71.57.0 u43351997-dave [10.71.57.0|get|0|44468|0|0|0|2f696d616765732f736c696465722d6267322e6a7067|]
+Oct 26 16:11:15 10.71.57.0 u43351997-dave open "/images/shop_bg.png" flags READ mode 0666
+Oct 26 16:11:15 10.71.57.0 u43351997-dave close "/images/slider-bg1.png" bytes read 1036537 written 0
+Oct 26 16:11:15 10.71.57.0 u43351997-dave [10.71.57.0|get|1|1036537|0|0|0|2f696d616765732f736c696465722d6267312e706e67|]
+Oct 26 16:11:15 10.71.57.0 u43351997-dave open "/images/shop.JPG" flags READ mode 0666
+Oct 26 16:11:16 10.71.57.0 u43351997-dave close "/images/shop.JPG" bytes read 396169 written 0
+Oct 26 16:11:16 10.71.57.0 u43351997-dave [10.71.57.0|get|1|396169|0|0|0|2f696d616765732f73686f702e4a5047|]
+Oct 26 16:11:16 10.71.57.0 u43351997-dave open "/images/pcmagic.png" flags READ mode 0666
+Oct 26 16:11:16 10.71.57.0 u43351997-dave close "/images/shop_bg.png" bytes read 1410647 written 0
+Oct 26 16:11:16 10.71.57.0 u43351997-dave [10.71.57.0|get|1|1410647|0|0|0|2f696d616765732f73686f705f62672e706e67|]
+Oct 26 16:11:16 10.71.57.0 u43351997-dave open "/images/pc_advice_bg.jpg" flags READ mode 0666
+Oct 26 16:11:16 10.71.57.0 u43351997-dave close "/images/pc_advice_bg.jpg" bytes read 128820 written 0
+Oct 26 16:11:16 10.71.57.0 u43351997-dave [10.71.57.0|get|0|128820|0|0|0|2f696d616765732f70635f6164766963655f62672e6a7067|]
+Oct 26 16:11:16 10.71.57.0 u43351997-dave open "/images/pc repair.jpeg" flags READ mode 0666
+Oct 26 16:11:17 10.71.57.0 u43351997-dave close "/images/pcmagic.png" bytes read 1909369 written 0
+Oct 26 16:11:17 10.71.57.0 u43351997-dave [10.71.57.0|get|1|1909369|0|0|0|2f696d616765732f70636d616769632e706e67|]
+Oct 26 16:11:17 10.71.57.0 u43351997-dave close "/images/pc repair.jpeg" bytes read 265674 written 0
+Oct 26 16:11:17 10.71.57.0 u43351997-dave [10.71.57.0|get|1|265674|0|0|0|2f696d616765732f7063207265706169722e6a706567|]
+Oct 26 16:11:17 10.71.57.0 u43351997-dave open "/images/newpc.jpg" flags READ mode 0666
+Oct 26 16:11:17 10.71.57.0 u43351997-dave open "/images/Thumbs.db" flags READ mode 0666
+Oct 26 16:11:17 10.71.57.0 u43351997-dave close "/images/newpc.jpg" bytes read 124304 written 0
+Oct 26 16:11:17 10.71.57.0 u43351997-dave [10.71.57.0|get|0|124304|0|0|0|2f696d616765732f6e657770632e6a7067|]
+Oct 26 16:11:17 10.71.57.0 u43351997-dave close "/images/Thumbs.db" bytes read 229376 written 0
+Oct 26 16:11:17 10.71.57.0 u43351997-dave [10.71.57.0|get|0|229376|0|0|0|2f696d616765732f5468756d62732e6462|]
+Oct 26 16:11:17 10.71.57.0 u43351997-dave open "/js/wow.min.js" flags READ mode 0666
+Oct 26 16:11:17 10.71.57.0 u43351997-dave close "/js/wow.min.js" bytes read 7083 written 0
+Oct 26 16:11:17 10.71.57.0 u43351997-dave [10.71.57.0|get|0|7083|0|0|0|2f6a732f776f772e6d696e2e6a73|]
+Oct 26 16:11:17 10.71.57.0 u43351997-dave open "/js/typed.js" flags READ mode 0666
+Oct 26 16:11:17 10.71.57.0 u43351997-dave open "/js/jquery.singlePageNav.min.js" flags READ mode 0666
+Oct 26 16:11:17 10.71.57.0 u43351997-dave close "/js/typed.js" bytes read 14463 written 0
+Oct 26 16:11:17 10.71.57.0 u43351997-dave [10.71.57.0|get|0|14463|0|0|0|2f6a732f74797065642e6a73|]
+Oct 26 16:11:17 10.71.57.0 u43351997-dave close "/js/jquery.singlePageNav.min.js" bytes read 2553 written 0
+Oct 26 16:11:17 10.71.57.0 u43351997-dave [10.71.57.0|get|0|2553|0|0|0|2f6a732f6a71756572792e73696e676c65506167654e61762e6d696e2e6a73|]
+Oct 26 16:11:18 10.71.57.0 u43351997-dave open "/js/jquery.js" flags READ mode 0666
+Oct 26 16:11:18 10.71.57.0 u43351997-dave open "/js/custom.js" flags READ mode 0666
+Oct 26 16:11:18 10.71.57.0 u43351997-dave close "/js/jquery.js" bytes read 93104 written 0
+Oct 26 16:11:18 10.71.57.0 u43351997-dave [10.71.57.0|get|1|93104|0|0|0|2f6a732f6a71756572792e6a73|]
+Oct 26 16:11:18 10.71.57.0 u43351997-dave close "/js/custom.js" bytes read 1684 written 0
+Oct 26 16:11:18 10.71.57.0 u43351997-dave [10.71.57.0|get|0|1684|0|0|0|2f6a732f637573746f6d2e6a73|]
+Oct 26 16:11:18 10.71.57.0 u43351997-dave open "/js/bootstrap.min.js" flags READ mode 0666
+Oct 26 16:11:18 10.71.57.0 u43351997-dave close "/js/bootstrap.min.js" bytes read 35458 written 0
+Oct 26 16:11:18 10.71.57.0 u43351997-dave [10.71.57.0|get|0|35458|0|0|0|2f6a732f626f6f7473747261702e6d696e2e6a73|]
+Oct 26 16:11:18 10.71.57.0 u43351997-dave open "/logs/access.log.40.gz" flags READ mode 0666
+Oct 26 16:11:18 10.71.57.0 u43351997-dave close "/logs/access.log.40.gz" bytes read 14084 written 0
+Oct 26 16:11:18 10.71.57.0 u43351997-dave [10.71.57.0|get|0|14084|0|0|0|2f6c6f67732f6163636573732e6c6f672e34302e677a|]
+Oct 26 16:11:18 10.71.57.0 u43351997-dave open "/logs/access.log.36.gz" flags READ mode 0666
+Oct 26 16:11:18 10.71.57.0 u43351997-dave open "/logs/access.log.38.gz" flags READ mode 0666
+Oct 26 16:11:18 10.71.57.0 u43351997-dave close "/logs/access.log.36.gz" bytes read 13303 written 0
+Oct 26 16:11:18 10.71.57.0 u43351997-dave [10.71.57.0|get|0|13303|0|0|0|2f6c6f67732f6163636573732e6c6f672e33362e677a|]
+Oct 26 16:11:18 10.71.57.0 u43351997-dave close "/logs/access.log.38.gz" bytes read 12846 written 0
+Oct 26 16:11:18 10.71.57.0 u43351997-dave [10.71.57.0|get|0|12846|0|0|0|2f6c6f67732f6163636573732e6c6f672e33382e677a|]
+Oct 26 16:11:18 10.71.57.0 u43351997-dave open "/logs/access.log.37.gz" flags READ mode 0666
+Oct 26 16:11:18 10.71.57.0 u43351997-dave open "/logs/access.log.43.7.gz" flags READ mode 0666
+Oct 26 16:11:18 10.71.57.0 u43351997-dave close "/logs/access.log.37.gz" bytes read 14144 written 0
+Oct 26 16:11:18 10.71.57.0 u43351997-dave [10.71.57.0|get|0|14144|0|0|0|2f6c6f67732f6163636573732e6c6f672e33372e677a|]
+Oct 26 16:11:18 10.71.57.0 u43351997-dave close "/logs/access.log.43.7.gz" bytes read 2337 written 0
+Oct 26 16:11:18 10.71.57.0 u43351997-dave [10.71.57.0|get|0|2337|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e372e677a|]
+Oct 26 16:11:18 10.71.57.0 u43351997-dave open "/logs/access.log.39.gz" flags READ mode 0666
+Oct 26 16:11:18 10.71.57.0 u43351997-dave open "/logs/access.log.44.1" flags READ mode 0666
+Oct 26 16:11:19 10.71.57.0 u43351997-dave close "/logs/access.log.39.gz" bytes read 14251 written 0
+Oct 26 16:11:19 10.71.57.0 u43351997-dave [10.71.57.0|get|1|14251|0|0|0|2f6c6f67732f6163636573732e6c6f672e33392e677a|]
+Oct 26 16:11:19 10.71.57.0 u43351997-dave close "/logs/access.log.44.1" bytes read 32653 written 0
+Oct 26 16:11:19 10.71.57.0 u43351997-dave [10.71.57.0|get|1|32653|0|0|0|2f6c6f67732f6163636573732e6c6f672e34342e31|]
+Oct 26 16:11:19 10.71.57.0 u43351997-dave open "/logs/access.log.43.5.gz" flags READ mode 0666
+Oct 26 16:11:19 10.71.57.0 u43351997-dave open "/logs/access.log.43.4.gz" flags READ mode 0666
+Oct 26 16:11:19 10.71.57.0 u43351997-dave close "/logs/access.log.43.5.gz" bytes read 3734 written 0
+Oct 26 16:11:19 10.71.57.0 u43351997-dave [10.71.57.0|get|0|3734|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e352e677a|]
+Oct 26 16:11:19 10.71.57.0 u43351997-dave close "/logs/access.log.43.4.gz" bytes read 2187 written 0
+Oct 26 16:11:19 10.71.57.0 u43351997-dave [10.71.57.0|get|0|2187|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e342e677a|]
+Oct 26 16:11:19 10.71.57.0 u43351997-dave open "/logs/access.log.43.1.gz" flags READ mode 0666
+Oct 26 16:11:19 10.71.57.0 u43351997-dave open "/logs/access.log.41.gz" flags READ mode 0666
+Oct 26 16:11:19 10.71.57.0 u43351997-dave close "/logs/access.log.43.1.gz" bytes read 2987 written 0
+Oct 26 16:11:19 10.71.57.0 u43351997-dave [10.71.57.0|get|0|2987|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e312e677a|]
+Oct 26 16:11:19 10.71.57.0 u43351997-dave close "/logs/access.log.41.gz" bytes read 15632 written 0
+Oct 26 16:11:19 10.71.57.0 u43351997-dave [10.71.57.0|get|0|15632|0|0|0|2f6c6f67732f6163636573732e6c6f672e34312e677a|]
+Oct 26 16:11:19 10.71.57.0 u43351997-dave open "/logs/access.log.42.gz" flags READ mode 0666
+Oct 26 16:11:19 10.71.57.0 u43351997-dave open "/logs/access.log.43.6.gz" flags READ mode 0666
+Oct 26 16:11:19 10.71.57.0 u43351997-dave close "/logs/access.log.42.gz" bytes read 15009 written 0
+Oct 26 16:11:19 10.71.57.0 u43351997-dave [10.71.57.0|get|0|15009|0|0|0|2f6c6f67732f6163636573732e6c6f672e34322e677a|]
+Oct 26 16:11:19 10.71.57.0 u43351997-dave close "/logs/access.log.43.6.gz" bytes read 2060 written 0
+Oct 26 16:11:19 10.71.57.0 u43351997-dave [10.71.57.0|get|0|2060|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e362e677a|]
+Oct 26 16:11:19 10.71.57.0 u43351997-dave open "/logs/access.log.43.3.gz" flags READ mode 0666
+Oct 26 16:11:19 10.71.57.0 u43351997-dave open "/logs/access.log.43.2.gz" flags READ mode 0666
+Oct 26 16:11:19 10.71.57.0 u43351997-dave close "/logs/access.log.43.3.gz" bytes read 2273 written 0
+Oct 26 16:11:19 10.71.57.0 u43351997-dave [10.71.57.0|get|0|2273|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e332e677a|]
+Oct 26 16:11:19 10.71.57.0 u43351997-dave close "/logs/access.log.43.2.gz" bytes read 1936 written 0
+Oct 26 16:11:19 10.71.57.0 u43351997-dave [10.71.57.0|get|0|1936|0|0|0|2f6c6f67732f6163636573732e6c6f672e34332e322e677a|]
+Oct 26 16:11:20 10.71.57.0 u43351997-dave open "/logs/traffic.db.org" flags READ mode 0666
+Oct 26 16:11:20 10.71.57.0 u43351997-dave open "/logs/traffic.db" flags READ mode 0666
+Oct 26 16:11:20 10.71.57.0 u43351997-dave close "/logs/traffic.db.org" bytes read 45056 written 0
+Oct 26 16:11:20 10.71.57.0 u43351997-dave [10.71.57.0|get|0|45056|0|0|0|2f6c6f67732f747261666669632e64622e6f7267|]
+Oct 26 16:11:20 10.71.57.0 u43351997-dave close "/logs/traffic.db" bytes read 45056 written 0
+Oct 26 16:11:20 10.71.57.0 u43351997-dave [10.71.57.0|get|0|45056|0|0|0|2f6c6f67732f747261666669632e6462|]
+Oct 26 16:11:20 10.71.57.0 u43351997-dave open "/logs/last_traffic" flags READ mode 0666
+Oct 26 16:11:20 10.71.57.0 u43351997-dave close "/logs/last_traffic" bytes read 0 written 0
+Oct 26 16:11:20 10.71.57.0 u43351997-dave [10.71.57.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Oct 26 16:11:20 10.71.57.0 u43351997-dave open "/logs/info.py" flags READ mode 0666
+Oct 26 16:11:20 10.71.57.0 u43351997-dave close "/logs/info.py" bytes read 6384 written 0
+Oct 26 16:11:20 10.71.57.0 u43351997-dave [10.71.57.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Oct 26 16:11:20 10.71.57.0 u43351997-dave open "/logs/info.pl" flags READ mode 0666
+Oct 26 16:11:20 10.71.57.0 u43351997-dave open "/logs/info.php5" flags READ mode 0666
+Oct 26 16:11:20 10.71.57.0 u43351997-dave close "/logs/info.pl" bytes read 4176 written 0
+Oct 26 16:11:20 10.71.57.0 u43351997-dave [10.71.57.0|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Oct 26 16:11:20 10.71.57.0 u43351997-dave close "/logs/info.php5" bytes read 21 written 0
+Oct 26 16:11:20 10.71.57.0 u43351997-dave [10.71.57.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Oct 26 16:11:20 10.71.57.0 u43351997-dave open "/logs/sftp.log" flags READ mode 0666
